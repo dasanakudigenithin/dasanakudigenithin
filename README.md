@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nithin
-- 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning something new.
-- 💞️ I’m looking to collaborate on anything fun.
-- 📫 Mail to djnithin192@gmail.com
+- 👋 Hi, I’m Nithin
+- 👀 I am fullstack javascript developer.
+- 🌱 I’m currently curious about generative AI and trying to learn about it.
+- 📫 Mail to nithindj192@gmail.com
 
 <!---
 dasanakudigenithin/dasanakudigenithin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
