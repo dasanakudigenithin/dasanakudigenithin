@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nithin
-- 👀 I am fullstack javascript developer.
-- 🌱 I’m currently curious about generative AI and trying to learn about it.
+- 👀 I am a full stack javascript developer.
+- 🌱 My new interest is generative AI and trying to learn about it.
 - 📫 Mail to nithindj192@gmail.com
 
 <!---
