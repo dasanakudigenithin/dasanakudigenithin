@@ -1,0 +1,106 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="60" x2="1120" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="130" y1="300" x2="760" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="18" y="18" width="1164" height="664" rx="22" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
+  <rect x="19" y="19" width="1162" height="662" rx="21" fill="url(#grid)"/>
+
+  <!-- top terminal bar -->
+  <rect x="48" y="44" width="1104" height="54" rx="12" fill="#0F172A" stroke="#263244"/>
+  <circle cx="75" cy="71" r="6" fill="#475569"/>
+  <circle cx="96" cy="71" r="6" fill="#475569"/>
+  <circle cx="117" cy="71" r="6" fill="#475569"/>
+  <text x="145" y="77" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">dasanakudigenithin / README.md</text>
+
+  <!-- terminal prompt -->
+  <text x="76" y="146" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">nithin@engineering:~$</text>
+  <text x="308" y="146" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">whoami</text>
+
+  <!-- name -->
+  <text x="76" y="214" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="56" font-weight="700">Nithin D J</text>
+  <text x="79" y="251" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">&lt; Lead Full-Stack Engineer /&gt;</text>
+
+  <!-- short statement -->
+  <rect x="76" y="284" width="610" height="82" rx="12" fill="#0F172A" stroke="#334155"/>
+  <rect x="76" y="284" width="4" height="82" rx="2" fill="#38BDF8"/>
+  <text x="100" y="316" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">Building and maintaining production systems</text>
+  <text x="100" y="344" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">across fintech, blockchain and web platforms.</text>
+
+  <!-- core -->
+  <text x="78" y="410" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="2">CORE</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">
+    <rect x="76" y="430" width="132" height="36" rx="18" fill="#0F172A" stroke="#38BDF8"/>
+    <text x="142" y="453" text-anchor="middle" fill="#BAE6FD">JavaScript</text>
+
+    <rect x="218" y="430" width="118" height="36" rx="18" fill="#0F172A" stroke="#38BDF8"/>
+    <text x="277" y="453" text-anchor="middle" fill="#BAE6FD">TypeScript</text>
+
+    <rect x="346" y="430" width="90" height="36" rx="18" fill="#0F172A" stroke="#38BDF8"/>
+    <text x="391" y="453" text-anchor="middle" fill="#BAE6FD">React</text>
+
+    <rect x="446" y="430" width="110" height="36" rx="18" fill="#0F172A" stroke="#38BDF8"/>
+    <text x="501" y="453" text-anchor="middle" fill="#BAE6FD">Next.js</text>
+
+    <rect x="566" y="430" width="106" height="36" rx="18" fill="#0F172A" stroke="#38BDF8"/>
+    <text x="619" y="453" text-anchor="middle" fill="#BAE6FD">Node.js</text>
+
+    <rect x="76" y="478" width="92" height="36" rx="18" fill="#0F172A" stroke="#475569"/>
+    <text x="122" y="501" text-anchor="middle" fill="#CBD5E1">AWS</text>
+
+    <rect x="178" y="478" width="112" height="36" rx="18" fill="#0F172A" stroke="#475569"/>
+    <text x="234" y="501" text-anchor="middle" fill="#CBD5E1">Docker</text>
+
+    <rect x="300" y="478" width="132" height="36" rx="18" fill="#0F172A" stroke="#475569"/>
+    <text x="366" y="501" text-anchor="middle" fill="#CBD5E1">Kubernetes</text>
+
+    <rect x="442" y="478" width="118" height="36" rx="18" fill="#0F172A" stroke="#475569"/>
+    <text x="501" y="501" text-anchor="middle" fill="#CBD5E1">Blockchain</text>
+  </g>
+
+  <!-- right system card -->
+  <g filter="url(#shadow)">
+    <rect x="752" y="155" width="344" height="370" rx="20" fill="#0B1220" stroke="#334155" stroke-width="2"/>
+  </g>
+
+  <text x="780" y="192" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">ENGINEERING PROFILE</text>
+
+  <circle cx="924" cy="260" r="60" fill="#111827" stroke="#38BDF8" stroke-width="2"/>
+  <text x="924" y="253" text-anchor="middle" fill="#E0F2FE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22" font-weight="700">10+</text>
+  <text x="924" y="278" text-anchor="middle" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13">YEARS</text>
+
+  <line x1="788" y1="343" x2="1060" y2="343" stroke="#1E293B"/>
+
+  <text x="788" y="374" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Focus</text>
+  <text x="1060" y="374" text-anchor="end" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Full-stack systems</text>
+
+  <text x="788" y="407" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Domains</text>
+  <text x="1060" y="407" text-anchor="end" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">FinTech · Digital Assets</text>
+
+  <text x="788" y="440" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Architecture</text>
+  <text x="1060" y="440" text-anchor="end" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">REST · Microservices</text>
+
+  <text x="788" y="473" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Leadership</text>
+  <text x="1060" y="473" text-anchor="end" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Mentoring · Reviews</text>
+
+  <!-- bottom -->
+  <line x1="76" y1="570" x2="1124" y2="570" stroke="#334155"/>
+  <text x="76" y="610" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">nithindj.com</text>
+  <text x="598" y="610" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">github.com/dasanakudigenithin · linkedin.com/in/nithindj192</text>
+  <text x="76" y="642" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">JavaScript · React · Node.js · AWS · Blockchain</text>
+  <text x="1124" y="642" text-anchor="end" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">build → ship → maintain</text>
+</svg>
