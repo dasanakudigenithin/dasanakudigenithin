@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Nithin D J — Lead Full-Stack Engineer" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="Nithin D J — Full-Stack Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ I'm a full-stack engineer with 10+ years of experience working across fintech, b
 
 My work spans frontend, backend, cloud infrastructure, and production systems. I've worked on authentication and access control, KYC/KYB, blockchain integrations, platform migrations, and reusable backend components.
 
-Currently, I work as a Lead Engineer, contributing to product development, architecture, code reviews, stakeholder communication, and team mentoring.
+Currently, I work as a Senior Software Engineer, contributing to product development, architecture, code reviews, stakeholder communication, and team mentoring.
 
 ## What I work with
 
@@ -36,7 +36,7 @@ Solidity · Smart Contracts · Web3.js · Ethers.js
 
 ## Experience
 
-### Clearing (Fortris) — Lead Engineer
+### Clearing (Fortris) — Senior Software Engineer
 
 **October 2021 – Present**
 
@@ -71,25 +71,8 @@ Solidity · Smart Contracts · Web3.js · Ethers.js
 - Built web-based flight information displays using Java, J2EE, JavaScript, and Flash.
 - Implemented RESTful services for real-time flight data access.
 
-## Selected Projects
-
-- **guard-install** — npm security CLI for inspecting package risk signals before installation.
-- **react-weather-app** — an earlier React project and one of my first public GitHub projects.
-
-More projects are available in my repositories.
-
-## Portfolio
-
-For a fuller view of my experience and work:
-
-**[nithindj.com](https://nithindj.com)**
-
 ## Connect
 
-- [GitHub](https://github.com/dasanakudigenithin)
 - [LinkedIn](https://www.linkedin.com/in/nithindj192/)
 - [Email](mailto:nithindj@zohomail.com)
-
----
-
-<sub>Built with Markdown and a small custom SVG. Content is intentionally kept factual and concise.</sub>
+- [Portfolio](https://nithindj.com)
