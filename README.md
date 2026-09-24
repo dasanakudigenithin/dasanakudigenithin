@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://nithindj.com">Portfolio</a> ·
   <a href="https://github.com/dasanakudigenithin">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/nithindj192/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nithindj192/">LinkedIn</a> .
   <a href="mailto:nithindj192@gmail.com">Email</a>
 </p>
 
