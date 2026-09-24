@@ -74,5 +74,5 @@ Solidity · Smart Contracts · Web3.js · Ethers.js
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nithindj192/)
-- [Email](mailto:nithindj@zohomail.com)
+- [Email](mailto:nithindj192@gmail.com)
 - [Portfolio](https://nithindj.com)
