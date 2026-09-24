@@ -6,6 +6,7 @@
   <a href="https://nithindj.com">Portfolio</a> ·
   <a href="https://github.com/dasanakudigenithin">GitHub</a> ·
   <a href="https://www.linkedin.com/in/nithindj192/">LinkedIn</a>
+  <a href="mailto:nithindj192@gmail.com">Email</a>
 </p>
 
 ## About
@@ -70,9 +71,3 @@ Solidity · Smart Contracts · Web3.js · Ethers.js
 - Developed information-editing features for airport display systems using Java, JSP, and J2EE.
 - Built web-based flight information displays using Java, J2EE, JavaScript, and Flash.
 - Implemented RESTful services for real-time flight data access.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/nithindj192/)
-- [Email](mailto:nithindj192@gmail.com)
-- [Portfolio](https://nithindj.com)
